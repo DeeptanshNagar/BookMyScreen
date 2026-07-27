@@ -6,41 +6,6 @@ This system includes advanced features like **concurrent seat locking**, **real-
 
 ---
 
-## ⚠️ Important Note (Must Read Before Using Code)
-
-> 🚫 **Please do NOT blindly copy-paste the code from this project.**
-
-This is a **complex, real-world full-stack system** involving:
-- Concurrent seat booking logic with Redis-based locking
-- Real-time updates via WebSockets (Socket.io)
-- Backend + Frontend tight integration
-- MongoDB Transactions (Replica Set required)
-- Structured, modular architecture
-
-👉 If you directly copy the code, you may face:
-- ❌ Errors during setup
-- ❌ Confusion in understanding the flow
-- ❌ Issues in execution and debugging
-
----
-
-### 💡 Why this matters?
-
-This project is designed to help you:
-- Think like a real developer 🧠
-- Understand system design + architecture
-- Learn how real booking systems handle concurrency and race conditions
-
-👉 Following the tutorial will ensure **smooth execution + deep understanding**
-
----
-
-## 📺 Watch the Full Playlist
-
-👉 [YouTube – Programming with Amrit](https://www.youtube.com/@ProgrammingWithAmrit)
-
----
-
 ## 🧰 Tech Stack
 
 | Layer | Technology |
