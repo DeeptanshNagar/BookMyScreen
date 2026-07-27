@@ -3,7 +3,7 @@ import { config } from "../../config/config";
 import nodemailer from "nodemailer";
 import Mailgen from "mailgen";
 
-// generate otp
+// generate otp 
 export const generateOTP = () => {
   const otp = crypto.randomInt(1000, 9999);
   return otp;
