@@ -351,13 +351,13 @@ If you find a bug or want to improve something:
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 ---
 
 ## 👨‍💻 Author
 
-**Amrit Maurya** — [Programming with Amrit](https://www.youtube.com/@ProgrammingWithAmrit)
+**Deeptansh Nagar** — [GitHub](https://github.com/DeeptanshNagar)
 
 ---
 
