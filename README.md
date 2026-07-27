@@ -26,14 +26,6 @@ This is a **complex, real-world full-stack system** involving:
 
 ---
 
-### ✅ Recommended Approach
-
-✔ Follow the **YouTube tutorial step-by-step** on **Programming with Amrit**  
-✔ Understand each module (Auth, Show, Booking, Seat Locking, Payment, etc.)  
-✔ Then implement the code alongside the tutorial  
-
----
-
 ### 💡 Why this matters?
 
 This project is designed to help you:
