@@ -41,7 +41,7 @@ const mailGenerator = new Mailgen({
   theme: "default",
   product: {
     name: "bookMyScreen",
-    link: "https://amritraj.vercel.app",
+    link: "https://deeptanshnagar.vercel.app",
     logo: "https://res.cloudinary.com/amritrajmaurya/image/upload/v1751475322/zu4fnmh2jljzbtey77ah.png",
   },
 });

@@ -4,6 +4,46 @@ Welcome to the **BookMyScreen** – Built a **full-stack movie ticket booking sy
 
 This system includes advanced features like **concurrent seat locking**, **real-time UI updates**, and **theatre-wise show grouping** – inspired by platforms like **BookMyShow**.
 
+
+> ✅ Perfect for beginners and intermediate developers looking to create a real-world, scalable, and beautifully designed full-stack project.
+
+---
+
+## ⚠️ Important Note (Must Read Before Using Code)
+
+> 🚫 **Please do NOT blindly copy-paste the code from this project.**
+
+This is a **complex, real-world full-stack system** involving:
+- Concurrent seat booking logic with Redis-based locking
+- Real-time updates via WebSockets (Socket.io)
+- Backend + Frontend tight integration
+- MongoDB Transactions (Replica Set required)
+- Structured, modular architecture
+
+👉 If you directly copy the code, you may face:
+- ❌ Errors during setup
+- ❌ Confusion in understanding the flow
+- ❌ Issues in execution and debugging
+
+---
+
+### ✅ Recommended Approach
+
+✔ Follow the **YouTube tutorial step-by-step** on **Programming with Deeptansh**  
+✔ Understand each module (Auth, Show, Booking, Seat Locking, Payment, etc.)  
+✔ Then implement the code alongside the tutorial  
+
+---
+
+### 💡 Why this matters?
+
+This project is designed to help you:
+- Think like a real developer 🧠
+- Understand system design + architecture
+- Learn how real booking systems handle concurrency and race conditions
+
+👉 Following the tutorial will ensure **smooth execution + deep understanding**
+
 ---
 
 ## 🧰 Tech Stack
@@ -357,7 +397,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Deeptansh Nagar** — [LinkedIN](https://www.linkedin.com/in/deeptansh-nagar-a07277298/)
+**Deeptansh Nagar** — [LinkedIn](https://www.linkedin.com/in/deeptansh-nagar-a07277298/) | [GitHub](https://github.com/DeeptanshNagar)
 
 ---
 

@@ -11,7 +11,7 @@
     "seed:movies": "ts-node src/scripts/seed-movies.ts",
     "seed:shows": "ts-node src/scripts/seed-shows.ts"
   },
-  "author": "ProgrammingWithAmrit",
+  "author": "DeeptanshNagar",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.7",
