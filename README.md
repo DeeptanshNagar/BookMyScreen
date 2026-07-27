@@ -4,8 +4,6 @@ Welcome to the **BookMyScreen** tutorial series – your ultimate guide to build
 
 This system includes advanced features like **concurrent seat locking**, **real-time UI updates**, and **theatre-wise show grouping** – inspired by platforms like **BookMyShow**.
 
-> ✅ Perfect for beginners and intermediate developers looking to create a real-world, scalable, and beautifully designed full-stack project.
-
 ---
 
 ## ⚠️ Important Note (Must Read Before Using Code)
