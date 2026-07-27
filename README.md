@@ -357,7 +357,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Deeptansh Nagar** — [GitHub](https://github.com/DeeptanshNagar)
+**Deeptansh Nagar** — [LinkedIN](https://www.linkedin.com/in/deeptansh-nagar-a07277298/)
 
 ---
 
